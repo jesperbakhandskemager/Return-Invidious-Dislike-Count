@@ -3,7 +3,7 @@
 // @namespace    https://github.com/jesperbakhandskemager/Return-Invidious-Dislike-Count
 // @encoding     utf-8
 // @version      0.2.1
-// @license      unlicense
+// @license      Unlicense
 // @description  Return the dislike count to Invidious
 // @author       Jesper Bak Handskemager
 // @icon         https://www.google.com/s2/favicons?domain=yewtu.be
