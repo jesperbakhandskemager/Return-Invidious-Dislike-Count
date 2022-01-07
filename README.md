@@ -8,7 +8,10 @@ Support for the most popular instances is already included, if yours isnt includ
 ```
 
 ## Installation
+[Click here (openuserjs.org)](https://openuserjs.org/scripts/poipa/Return_Dislike_Count_Invidious)
 
-[Click here](https://github.com/jesperbakhandskemager/Return-Invidious-Dislike-Count/raw/master/return-invidious-dislike.user.js)
+[Click here (greasyfork.org)](https://greasyfork.org/en/scripts/438162-return-dislike-count-invidious)
+
+[Click here (Github)](https://github.com/jesperbakhandskemager/Return-Invidious-Dislike-Count/raw/master/return-invidious-dislike.user.js)
 
 ### Thanks to [returnyoutubedislike.com](https://returnyoutubedislike.com)
