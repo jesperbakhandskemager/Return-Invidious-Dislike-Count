@@ -24,5 +24,6 @@ GM.xmlHttpRequest({
   onload: function(response) {
   var data = JSON.parse(response.responseText);
   document.getElementById("dislikes").innerHTML = "<i class='icon ion-ios-thumbs-down'></i> " + data.dislikes.toLocaleString('en-US');
+  document.getElementById("rating").innerHTML = "Rating: " + Math.round(data.rating * 10) / 10 + " / 5";
   }
 });
