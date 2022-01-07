@@ -2,7 +2,7 @@
 // @name         Return Dislike Count Invidious
 // @namespace    https://github.com/jesperbakhandskemager/Return-Invidious-Dislike-Count
 // @encoding     utf-8
-// @version      0.2
+// @version      0.2.1
 // @license      unlicense
 // @description  Return the dislike count to Invidious
 // @author       Jesper Bak Handskemager
