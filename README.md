@@ -10,3 +10,5 @@ Support for the most popular instances is already included, if yours isnt includ
 ## Installation
 
 [Click here](https://github.com/jesperbakhandskemager/Return-Invidious-Dislike-Count/raw/master/return-invidious-dislike.user.js)
+
+### Thanks to [returnyoutubedislike.com](https://returnyoutubedislike.com)
