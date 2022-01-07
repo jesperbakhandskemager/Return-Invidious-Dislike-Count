@@ -6,3 +6,7 @@ Support for the most popular instances is already included, if yours isnt includ
 ```
 // @match        https://yourdomain.com/watch?v=*
 ```
+
+## Installation
+
+[Click here](https://github.com/jesperbakhandskemager/Return-Invidious-Dislike-Count/raw/master/return-invidious-dislike.user.js)
