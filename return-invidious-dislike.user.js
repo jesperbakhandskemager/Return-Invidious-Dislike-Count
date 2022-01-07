@@ -18,6 +18,25 @@
 // @match        https://vid.puffyan.us/watch?v=*
 // @match        https://invidious.kavin.rocks/watch?v=*
 // @match        https://invidio.xamh.de/watch?v=*
+// @match        https://vid.mint.lgb/watch?v=*
+// @match        https://invidious.osi.kr/watch?v=*
+// @match        https://youtube.076.ne.jp/watch?v=*
+// @match        https://yt.artemislena.eu/watch?v=*
+// @match        https://invidious.mutahar.rocks/watch?v=*
+// @match        https://inv.riverside.rocks/watch?v=*
+// @match        https://invidious.namazso.eu/watch?v=*
+// @match        https://inv.cthd.icu/watch?v=*
+// @match        https://invidious.toot.koeln/watch?v=*
+// @match        https://invidious.fdn.fr/watch?v=*
+// @match        https://invidious.ggc-project.de/watch?v=*
+// @match        https://invidious.13ad.de/watch?v=*
+// @match        http://u2cvlit75owumwpy4dj2hsmvkq7nvrclkpht7xgyye2pyoxhpmclkrad.onion/watch?v=*
+// @match        http://osbivz6guyeahrwp2lnwyjk2xos342h4ocsxyqrlaopqjuhwn2djiiyd.onion/watch?v=*
+// @match        http://hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion/watch?v=*
+// @match        http://grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion/watch?v=*
+// @match        http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion/watch?v=*
+// @match        http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion/watch?v=*
+// @match        http://w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion/watch?v=*
 // ==/UserScript==
 
 
