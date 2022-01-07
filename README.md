@@ -1,5 +1,5 @@
 # Return Invidious Dislike Count
-Userscript to Return the Dislike button on Invidious.
+Userscript to Return the Dislike count on Invidious.
 
 Support for the most popular instances is already included, if yours isnt included just add it in '==UserScript==' with the grant option, like the other domains.
 
