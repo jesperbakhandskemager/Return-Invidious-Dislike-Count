@@ -9,10 +9,10 @@ Support for the most popular instances is already included, if yours isnt includ
 
 ## Installation
 
-## Install a Userscript Manager
+### Install a Userscript Manager
 Firstly you need a Userscript manager, for this i recommend [Violentmonkey](https://violentmonkey.github.io/) for Chrome based browsers (Chrome, Brave, Edge, Vivaldi etc.) and [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) for Firefox based browsers
 
-## Install the Userscript
+### Install the Userscript
 
 [Click here (openuserjs.org)](https://openuserjs.org/scripts/poipa/Return_Dislike_Count_Invidious)
 
