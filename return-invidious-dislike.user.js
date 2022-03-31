@@ -6,7 +6,7 @@
 // @license      MIT
 // @description  Return the dislike count to Invidious
 // @author       Jesper Bak Handskemager
-// @icon         https://www.google.com/s2/favicons?domain=yewtu.be
+// @icon https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://youtube.com&size=16
 // @downloadURL  https://raw.githubusercontent.com/jesperbakhandskemager/Return-Invidious-Dislike-Count/master/return-invidious-dislike.user.js
 // @updateURL    https://raw.githubusercontent.com/jesperbakhandskemager/Return-Invidious-Dislike-Count/master/return-invidious-dislike.user.js
 // @connect      returnyoutubedislikeapi.com
