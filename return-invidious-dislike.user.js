@@ -30,6 +30,12 @@
 // @match        https://invidious.fdn.fr/watch?v=*
 // @match        https://invidious.ggc-project.de/watch?v=*
 // @match        https://invidious.13ad.de/watch?v=*
+// @match        https://invidious.flokinet.to/watch?v=*
+// @match        https://invidious.privacy.gd/watch?v=*
+// @match        https://invidious.weblibre.org/watch?v=*
+// @match        https://invidious.esmailelbob.xyz/watch?v=*
+// @match        https://invidious.lunar.icu/watch?v=*
+// @match        https://y.com.sb/watch?v=*
 // @match        http://u2cvlit75owumwpy4dj2hsmvkq7nvrclkpht7xgyye2pyoxhpmclkrad.onion/watch?v=*
 // @match        http://osbivz6guyeahrwp2lnwyjk2xos342h4ocsxyqrlaopqjuhwn2djiiyd.onion/watch?v=*
 // @match        http://hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion/watch?v=*
