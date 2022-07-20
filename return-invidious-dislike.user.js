@@ -2,7 +2,7 @@
 // @name         Return Dislike Count Invidious
 // @namespace    https://github.com/jesperbakhandskemager/Return-Invidious-Dislike-Count
 // @encoding     utf-8
-// @version      0.2.2
+// @version      0.2.3
 // @license      MIT
 // @description  Return the dislike count to Invidious
 // @author       Jesper Bak Handskemager
@@ -36,6 +36,7 @@
 // @match        https://invidious.esmailelbob.xyz/watch?v=*
 // @match        https://invidious.lunar.icu/watch?v=*
 // @match        https://y.com.sb/watch?v=*
+// @match        https://inv.bp.projectsegfau.lt/watch?v=*
 // @match        http://u2cvlit75owumwpy4dj2hsmvkq7nvrclkpht7xgyye2pyoxhpmclkrad.onion/watch?v=*
 // @match        http://osbivz6guyeahrwp2lnwyjk2xos342h4ocsxyqrlaopqjuhwn2djiiyd.onion/watch?v=*
 // @match        http://hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion/watch?v=*
@@ -53,6 +54,8 @@ GM.xmlHttpRequest({
   url: "https://returnyoutubedislikeapi.com/votes?videoId=" + video_data.id,
   onload: function(response) {
   var data = JSON.parse(response.responseText);
+  document.getElementById("dislikes").style.display = 'block';
+  document.getElementById("dislikes").style.visibility = 'visible';
   document.getElementById("dislikes").innerHTML = "<i class='icon ion-ios-thumbs-down'></i> " + data.dislikes.toLocaleString('en-US');
   document.getElementById("rating").innerHTML = "Rating: " + Math.round(data.rating * 10) / 10 + " / 5";
   }
