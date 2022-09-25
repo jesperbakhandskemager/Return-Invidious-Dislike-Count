@@ -10,7 +10,8 @@ Support for the most popular instances is already included, if yours isnt includ
 ## Installation
 
 ### Install a Userscript Manager
-Firstly you need a Userscript manager, for this i recommend [Violentmonkey](https://violentmonkey.github.io/)
+Firstly you need a Userscript manager, for this i recommend [Violentmonkey](https://violentmonkey.github.io/).
+
 After one is installed you can go to one of the sites below and click install.
 
 ### Install the Userscript
